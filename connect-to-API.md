@@ -10,5 +10,5 @@ SERVICE_DOMAIN=[あなたのmicroCMSドメイン]
 microCMSのページに行き
 以下の画像の矢印部分を押してください。
 ![howToFindYourAPIKey](image/howToFindYourAPIKey.png "howToFindYourAPIKey")
-<img src="image/howToFindYourAPIKey.png" width="100px">
+<img src="image/howToFindYourAPIKey.png" width="100" height="200">
         
