@@ -20,5 +20,5 @@
 
 ## 作ってみよう
 1. microCMSのページに行きます(https://app.microcms.io/)
-<img href="image/microCMSTopPage.png">
+<img src="image/microCMSTopPage.png">
 2. 
