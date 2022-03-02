@@ -1,9 +1,8 @@
 ## 環境構築
 gitpodで出来上がった環境を配布します。
 gitpod最高！
-以下の
-<a href="gitpod.io#https://github.com/shunkat/portfolio">こちらをクリック</a>
-
+以下をコピーして、ブラウザのurlにペーストしてください。
+>gitpod.io#https://github.com/shunkat/portfolio
 
 
 ### コラム：extension
