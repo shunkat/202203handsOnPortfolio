@@ -3,7 +3,6 @@ gitpodで出来上がった環境を配布します。
 gitpod最高！
 以下の
 <a href="gitpod.io#https://github.com/shunkat/portfolio">こちらをクリック</a>
-gitpod.io#https://github.com/shunkat/portfolio
 
 
 
