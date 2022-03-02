@@ -1,10 +1,22 @@
+## 環境構築
+gitpodで出来上がった環境を配布します。
+gitpod最高！
+以下の
+<a href="gitpod.io#https://github.com/shunkat/portfolio">こちらをクリック</a>
+gitpod.io#https://github.com/shunkat/portfolio
+
+
+
+### コラム：extension
+veturを使うとコードに色がついて見やすいです。
+gitpodを起動したときに、下におすすめとしてだすようにしているので
+気になったらinstallしてみてください。
+
 
 ## pages/works/_id/index.vue
 _をつかうことで動的に表示できます。
 
-### コラム：extension
-veturを使うと、間違った書き方をしている箇所への警告が
-わかりやすく出ます。
+
 
 ## APIのキーとサブドメインを設定します
 プロジェクトのルート下に.envというファイルがあるので
