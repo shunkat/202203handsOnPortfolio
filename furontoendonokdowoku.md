@@ -29,7 +29,7 @@ gitpodを起動したときに
 嫌な場合は"n"を入力してEnter
 
 以下のような画面が出れば成功です。
-<img src="successOpeningLocalServer">
+<img src="/image/successOpeningLocalServer.png">
 
 
 ## pages/works/_id/index.vue
