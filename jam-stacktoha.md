@@ -1,6 +1,5 @@
 # JAM STACKとは
 
-&#x20;\
 ## Jam Stackとは
 
 JamstackのJamはJavaScript/APIs/Markupの頭文字です。</br>

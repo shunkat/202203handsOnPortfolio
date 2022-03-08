@@ -12,3 +12,15 @@ microCMSのページに行き
 ![howToFindYourAPIKey](image/howToFindYourAPIKey.png "howToFindYourAPIKey")
 <img src="image/howToFindYourAPIKey.png">
         
+# コードを変更する
+1. データ取得
+/pages/index.vueの73行目から83行目までをコメントアウト解除してください。</br>
+このコードで先ほど作成したAPIからデータを取得して</br>
+productsという変数の中に格納してくれます。
+
+2. データ反映
+次に、34行目から45行目までをコメントアウトし、</br>
+48行目から62行目までをコメントアウト解除してください。</br>
+この部分でproductsという変数を使ってview要素を更新しています。
+
+以上で今回のハンズオンは終了です。
