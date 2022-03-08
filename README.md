@@ -4,7 +4,8 @@
 
 ポートフォリオをまとめるサイトをJAM STACK構成で作りましょう！
 
-完成イメージ
+完成イメージ</br>
+https://confident-goldwasser-a468fd.netlify.app/
 
 #### ハンズオンのゴール
 
@@ -14,14 +15,32 @@
 
 
 
-### 最初にやっておいてほしいこと
+## 事前準備
+ハンズオンの中で以下のサービスを利用します。</br>
+スムーズに進行するため事前にアカウントの準備をお願いいたします。</br>
 
-以下のアカウントを持っていない人は
+<a href="https://github.com/">GitHub</a></br>
+<img src="/image/octcat.png">
 
-話を聞きながら作っておいてもらえるとありがたいです。
+おなじみのGitのリモートリポジトリサービスです。基本無料です。</br>
+プロジェクトを自分のリソースへFork/Pushするために必要になります。</br>
 
-* github
-* gitpod
+<p>
+※GitHubでは2021年8月13日から<a href="https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/">パスワード認証</a>が廃止されています。</br>
+※<a href="https://docs.github.com/ja/github/authenticating-to-github/keeping-your-account-and-data-secure/creating-a-personal-access-token">トークン</a>を発行し、リポジトリにPushできることを確認しておいてください。
+</p></br>
+
+<a href="https://www.gitpod.io/">Gitpod</a></br>
+<img src="/image/gitpod.png">
+ブラウザ上で仮想環境を立ち上げることのできるサービスです。基本無料です。</br>
+ハンズオンでは開発環境を揃えるため、Gitpodに揃えた環境を立ち上げてコマンドやファイルの編集を行います。</br>
+GitHubアカウントと連携させる形で登録いただければよいかと思います。</br>
+
+<a href="https://microcms.io/">microCMS</a></br>
+<img src="/image/microCMS_logo.png">
+和製のヘッドレスCMSサービスです。基本無料です。</br>
+今回はバックエンドの代わりのAPIを作成するために使います。</br>
+
 
 ## 全体の流れ
 1. APIを作ってバックエンドの代わりにします。
