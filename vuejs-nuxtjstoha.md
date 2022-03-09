@@ -26,7 +26,7 @@ Vue 周辺のエコシステムをまとめてパッケージにして、さら�
 
 ## Vuetifyとは
 今回のプロダクトはvuetifyというVueのライブラリを使っています。</br>
-![vuetify](/image/vuetify.png)
+![vuetify](/image/vuetify.png)</br>
 少しだけvueとは書き方が違うのですが</br>
 マテリアルデザインを簡単に構築できる上に、コードが非常にわかりやすいので</br>
 今回はついでに学習してしまいましょう</br>

@@ -4,8 +4,8 @@
 
 ポートフォリオをまとめるサイトをJAM STACK構成で作りましょう！
 
-完成イメージ
-[サンプル](https://confident-goldwasser-a468fd.netlify.app/)
+
+[完成イメージ](https://confident-goldwasser-a468fd.netlify.app/)
 
 #### ハンズオンのゴール
 * Vue.js, Nuxt.jsがちょっとわかる
