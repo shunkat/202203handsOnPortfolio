@@ -22,7 +22,7 @@
 2. APIを作成します
    1. api名はcontents
    2. エンドポイントもcontentsと入力して「次へ」
-![](image/microCMS\_logo.png)\   
+![](image/endpoints.png)\   
    3. リスト形式を選択して「次へ」
    4. slackにおいたファイルをインポートして「完了」
 3. APIで返す情報を入力します。
