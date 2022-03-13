@@ -1,29 +1,28 @@
 # APIを作ってみる
 
-今回はmicroCMSというサービスを使って
-
+今回はmicroCMSというサービスを使って</br>
 自分の成果物を返してくれるAPIを作ってみます。
 
 ## microCMSとは
 
-日本製のヘッドレスCMSです。
+日本製のヘッドレスCMSです。\
+[microCMS](https://microcms.io)\
+![](image/microCMS\_logo.png)\
+ヘッドレスCMSとは、一般的なCMS(Wordpressなど)から\
+見た目(View)の部分の管理を取り除いたものです。\
 
-ヘッドレスCMSとは、一般的なCMS(Wordpressなど)から
+要は、コードを書かずに\
+便利な管理画面から操作するだけで\
+簡単にバックエンドAPIを作成できるというサービスです。\
 
-見た目(View)の部分の管理を取り除いたものです。
-
-要は、コードを書かずに
-
-便利な管理画面から操作するだけで
-
-簡単にバックエンドAPIを作成できるというサービスです。
 
 ## 作ってみよう（以下はmicroCMSを初めて使う方の手順です）
 
 1. microCMSのページに行きます(https://app.microcms.io/)
 2. APIを作成します
-   1. api名はproducts
-   2. エンドポイントもproductsと入力して「次へ」
+   1. api名はcontents
+   2. エンドポイントもcontentsと入力して「次へ」
+![](image/microCMS\_logo.png)\   
    3. リスト形式を選択して「次へ」
    4. slackにおいたファイルをインポートして「完了」
 3. APIで返す情報を入力します。
