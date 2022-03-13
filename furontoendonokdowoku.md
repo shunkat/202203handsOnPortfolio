@@ -4,6 +4,7 @@ gitpodで出来上がった環境を配布します。
 gitpod最高！
 
 以下をコピーして、ブラウザのurlにペーストしてください。
+[今回のgitpod](gitpod.io#https://github.com/shunkat/portfolio/tree/handsOnVersion)
 >gitpod.io#https://github.com/shunkat/portfolio/tree/handsOnVersion
 
 自動でコマンドが起動し
@@ -17,10 +18,17 @@ veturという拡張機能を使うとコードに色がついて見やすいで
 
 gitpodを起動したときに</br>
 自動でインストールするように設定しています。</br>
+このような拡張機能のなかで今回の開発におすすめのものは以下です。\
+- [Material icon thema](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
+- [Auto rename tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
+- [Auto close tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag)
+- [code runner](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner)
+- [Vue.peek](https://marketplace.visualstudio.com/items?itemName=dariofuzinato.vue-peek)
+
+興味があれば入れてみてください。
 
 
-
-起動に成功するとterminal上に</br>
+さて起動に成功するとterminal上に</br>
 >? Are you interested in participating? (Y/n) 
 と表示されます。</br>
 
