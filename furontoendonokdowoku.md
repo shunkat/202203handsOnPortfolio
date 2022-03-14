@@ -4,7 +4,6 @@ gitpodで出来上がった環境を配布します。
 gitpod最高！
 
 以下をコピーして、ブラウザのurlにペーストしてください。
-[今回のgitpod](gitpod.io#https://github.com/shunkat/portfolio/tree/handsOnVersion)
 >gitpod.io#https://github.com/shunkat/portfolio/tree/handsOnVersion
 
 自動でコマンドが起動し
@@ -42,9 +41,15 @@ gitpodを起動したときに</br>
 
 ## ソースコードを見てみる
 
-1. 左のソースコードからpages/index/vueを見つけクリック
+1. 左のソースコードからpages/index.vueを見つけクリック
 今回の作るサイトのトップページのソースコードがこちらです。</br>
 コードをいじりながら、vue.jsやNuxt.js、Vuetifyの簡単な使い方を学びましょう。
+
+すごく簡単に全体を説明すると\
+今回のコードはフロントエンドを作成するためのもので\
+トップページのコードはpages/index.vueに\
+各詳細ページはpages/works/_id/index.vueに存在しています。
+
 
 
 ## Vueの便利さを知る
