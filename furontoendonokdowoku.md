@@ -52,9 +52,9 @@ gitpodを起動したときに</br>
 すごく簡単に全体を説明すると\
 今回のコードはフロントエンドを作成するためのもので\
 トップページのコードはpages/index.vueに\
-各詳細ページはpages/works/_id/index.vueに存在しています。\
+各詳細ページはpages/works/_id/index.vueに存在しています。
 
-<img src="/image/sourceOutline1st.png></br>
+![](image/sourceOutline1st.png)
 
 
 また今回のコードでは表示したい画像はstaticフォルダー以下においており、</br>
