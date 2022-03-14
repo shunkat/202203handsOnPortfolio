@@ -2,9 +2,10 @@
 
 * [はじめに](README.md)
 * [JAM STACKとは](jam-stacktoha.md)
-* [Vue.js / Nuxt.jsとは](vuejs-nuxtjstoha.md)
 * [APIを作ってみる](apiwottemiru.md)
-* [フロントエンドのコードを書く](furontoendonokdowoku.md)
+* [Vue.js / Nuxt.jsとは](vuejs-nuxtjstoha.md)
+* [フロントエンドのコードを書く](furontoendonokdowoku/README.md)
+  * [Vue.jsの感動ポイント](furontoendonokdowoku/vuejsnopointo.md)
 * [APIと連携してみる](connect-to-API.md)
 * [デプロイしてみる](depuroishitemiru.md)
 * [おわりに](owarini.md)
