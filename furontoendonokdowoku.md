@@ -24,10 +24,11 @@ gitpodを起動したときに</br>
 - [code runner](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner)
 - [Vue.peek](https://marketplace.visualstudio.com/items?itemName=dariofuzinato.vue-peek)
 
-興味があれば入れてみてください。
+興味があれば入れてみてください。</br>
+もしおすすめの拡張機能があれば、教えてください！
 
-
-さて起動に成功するとterminal上に</br>
+## ローカルサーバー起動
+さてgitpod起動に成功するとterminal上に</br>
 >? Are you interested in participating? (Y/n) 
 と表示されます。</br>
 
@@ -38,32 +39,41 @@ gitpodを起動したときに</br>
 以下のような画面が出れば成功です。</br>
 <img src="/image/successOpeningLocalServer.png"></br>
 
+初回は自動でローカルサーバーを立ち上げるようにしましたが</br>
+この次に起動するときは
+>yarn dev
+をターミナルに打ち込んでいます。
 
 ## ソースコードを見てみる
-
-1. 左のソースコードからpages/index.vueを見つけクリック
+左のファイル一覧からpages/index.vueを見つけクリックしてください</br>
 今回の作るサイトのトップページのソースコードがこちらです。</br>
-コードをいじりながら、vue.jsやNuxt.js、Vuetifyの簡単な使い方を学びましょう。
+コードをいじりながら、vue.jsやNuxt.js、Vuetifyの簡単な使い方を学びましょう。</br>
 
 すごく簡単に全体を説明すると\
 今回のコードはフロントエンドを作成するためのもので\
 トップページのコードはpages/index.vueに\
-各詳細ページはpages/works/_id/index.vueに存在しています。
+各詳細ページはpages/works/_id/index.vueに存在しています。\
+
+<img src="/image/sourceOutline1st.png></br>
 
 
+また今回のコードでは表示したい画像はstaticフォルダー以下においており、</br>
+全ページで共通して使うものはlayouts/default.vueの中に書いてあります。</br>
+<img src="/image/sourceOutline2nd.png></br>
 
-## Vueの便利さを知る
-ソースコードの36行目を見てください。
+さてそろそろ具体的なコードを見ていきましょう。\
+全てのコードは見切れないため\
+Vue.js、Nuxt.js、Vuetifyの特徴が現れている部分を抽出してみていきます。\
+## Vueの感動ポイント
+ソースコードの36行目を見てください。\
 ```
 <div v-for="i of 3" :key="i" class="eachProduct">
 ```
-という記述で3回のループ処理をしており
+という記述で3回のループ処理をしており\
+ループ回数をiという変数に格納しています。\
 
-ループ回数をiという変数に格納しています。
-
-それを40行目や42行目で呼び出して
-
-テキストの変更や呼び出す画像を変えるために使用しています。
+それを40行目や42行目で呼び出して\
+テキストの変更や呼び出す画像を変えるために使用しています。\
 
 このように、vueでは繰り返し処理を利用して</br>
 コードの記述量を節約できます。</br>
