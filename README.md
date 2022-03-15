@@ -2,7 +2,7 @@
 
 ### 概要
 
-ポートフォリオをまとめるサイトをJAM STACK構成で作りましょう！
+ポートフォリオをまとめるサイトをJam stack構成で作りましょう！
 
 
 [完成イメージ](https://confident-goldwasser-a468fd.netlify.app/)
