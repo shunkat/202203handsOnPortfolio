@@ -9,16 +9,16 @@
 [microCMS](https://microcms.io)\
 ![](image/microCMS\_logo.png)\
 ヘッドレスCMSとは、一般的なCMS(Wordpressなど)から\
-見た目(View)の部分の管理を取り除いたものです。\
+見た目(View)の部分の管理を取り除いたものです。
 
 要は、コードを書かずに\
 便利な管理画面から操作するだけで\
-簡単にバックエンドAPIを作成できるというサービスです。\
+簡単にバックエンドAPIを作成できるというサービスです。
 
 
-## 作ってみよう（以下はmicroCMSを初めて使う方の手順です）
-
-1. [microCMS](https://microcms.io)\のページに行きます
+## 作ってみよう
+一旦加藤がお手本をやってみるので、みながらついてきてください。
+1. [microCMS](https://microcms.io)のページに行きます
 
 2. APIを作成します
    1. api名はcontents
